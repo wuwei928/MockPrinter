@@ -1,0 +1,18 @@
+c:\users\jueme\documents\visual studio 2015\Projects\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.exe.config
+c:\users\jueme\documents\visual studio 2015\Projects\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.exe
+c:\users\jueme\documents\visual studio 2015\Projects\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.pdb
+c:\users\jueme\documents\visual studio 2015\Projects\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.csprojResolveAssemblyReference.cache
+c:\users\jueme\documents\visual studio 2015\Projects\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.exe
+c:\users\jueme\documents\visual studio 2015\Projects\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.pdb
+C:\Users\admin\Desktop\TestingZPLCode\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.exe.config
+C:\Users\admin\Desktop\TestingZPLCode\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.exe
+C:\Users\admin\Desktop\TestingZPLCode\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.pdb
+C:\Users\admin\Desktop\TestingZPLCode\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.exe
+C:\Users\admin\Desktop\TestingZPLCode\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.pdb
+C:\Users\admin\Desktop\TestingZPLCode\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.csprojResolveAssemblyReference.cache
+E:\Work\Visitor\TestingZPLCode\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.exe.config
+E:\Work\Visitor\TestingZPLCode\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.exe
+E:\Work\Visitor\TestingZPLCode\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.pdb
+E:\Work\Visitor\TestingZPLCode\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.exe
+E:\Work\Visitor\TestingZPLCode\TestingZPLCode\TestingZPLCode\bin\Debug\TestingZPLCode.pdb
+E:\Work\Visitor\TestingZPLCode\TestingZPLCode\TestingZPLCode\obj\Debug\TestingZPLCode.csprojResolveAssemblyReference.cache
